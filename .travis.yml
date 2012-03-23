@@ -11,6 +11,8 @@ notifications:
     - ryan@spreecommerce.com
 branches:
   only:
+    - 1-0-stable
+    - master
     - api
 rvm:
   - 1.8.7
